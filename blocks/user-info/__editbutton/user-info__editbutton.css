@@ -1,0 +1,22 @@
+.user-info__editbutton {
+    background-color: transparent;
+    border: 1px solid white;
+    color: white;
+    width: 44px;
+    height: 20px;
+    font-size: 12px;
+    display: block;
+    cursor: pointer;
+    margin-top: 15px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+  }
+
+ 
+  
+  .user-info__editbutton {
+    outline-color: greenyellow;
+  }
